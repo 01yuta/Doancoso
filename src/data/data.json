@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "SOMETHING STUDIO",
+    "paragraph": "Sáng tạo là chìa khóa mở ra nguồn tri thức vô tận, giúp con người không ngừng khám phá, phát triển và tạo nên những giá trị mới mẻ.."
+  },
+  "About": {
+    "paragraph": "Something Studio là doanh nghiệp thiết kế đồ họa chuyên nghiệp, với sứ mệnh mang đến những giải pháp sáng tạo và đột phá cho thương hiệu của khách hàng. Với đội ngũ nhà thiết kế trẻ trung, năng động và giàu kinh nghiệm, chúng tôi tự hào cung cấp những sản phẩm thiết kế độc đáo, từ nhận diện thương hiệu, thiết kế logo, đến các ấn phẩm truyền thông đa phương tiện..",
+    "Why": [
+      "Sáng tạo đột phá",
+      "Chất lượng vượt trội",
+      "Dịch vụ cá nhân hóa",
+      "Hiệu quả về chi phí"
+    ],
+    "Why2": [
+      "Kinh nghiệm trong nhiều lĩnh vực",
+      "Luôn cập nhật xu hướng mới nhất",
+      " chuyên nghiệp và minh bạch",
+      "Phản hồi tích cực từ khách hàng"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project 1",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project 2",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project 3",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project 4",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project 5",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project 6",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project 7",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project 8",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project 9",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Thiết kế nhận diện thương hiệu",
+      "text": "Tạo logo, bảng màu, và hệ thống nhận diện thương hiệu chuyên nghiệp."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Thiết kế bao bì sản phẩm",
+      "text": "Thiết kế bao bì độc đáo, thu hút và truyền tải giá trị thương hiệu.."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Thiết kế ấn phẩm truyền thông",
+      "text": "Sáng tạo poster, flyer, brochure và banner cho các chiến dịch marketing."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Thiết kế giao diện website & ứng dụng",
+      "text": "Thiết kế UI/UX đẹp mắt, dễ sử dụng, tối ưu trải nghiệm người dùng."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Thiết kế đồ họa sự kiện",
+      "text": "Thiết kế backdrop, standee, và các vật phẩm sự kiện ấn tượng."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Thiết kế infographic & minh họa",
+      "text": "Biến thông tin phức tạp thành infographic và hình minh họa trực quan, dễ hiểu."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/07.jpg",
+      "text": "\"Something Studio đã giúp chúng tôi tái định hình hoàn toàn bộ nhận diện thương hiệu. Thiết kế logo và bao bì của họ thật sự ấn tượng giúp sản phẩm của chúng tôi nổi bật hơn rất nhiều.\"",
+      "name": "Nguyễn Đằng"
+    },
+    {
+      "img": "img/testimonials/08.jpg",
+      "text": "\"Đội ngũ rất chuyên nghiệp và sáng tạo. Các ấn phẩm truyền thông mà họ thiết kế luôn giúp chúng tôi truyền tải thông điệp đến khách hàng một cách hiệu quả và thu hút.\"",
+      "name": "Hồng Thương"
+    },
+    {
+      "img": "img/testimonials/09.jpg",
+      "text": "\"Giao diện website mà Something Studio thiết kế không chỉ đẹp mà còn rất thân thiện với người dùng. Khách hàng của chúng tôi đã có trải nghiệm tốt hơn hẳn từ khi nâng cấp giao diện\"",
+      "name": "Hân Bình"
+    },
+    {
+      "img": "img/testimonials/10.jpg",
+      "text": "\"Tôi rất hài lòng với thiết kế đồ họa cho sự kiện của chúng tôi. Từ backdrop đến standee đều chuyên nghiệp và gây ấn tượng mạnh với khách tham dự.\"",
+      "name": "Nhất Minh"
+    },
+    {
+      "img": "img/testimonials/11.jpg",
+      "text": "\"Thiết kế infographic của Something Studio thật sự xuất sắc. Họ biến những dữ liệu khô khan thành những hình ảnh dễ hiểu và sinh động, giúp chúng tôi truyền tải thông tin đến độc giả một cách dễ dàng.\"",
+      "name": "Nguyễn Quân"
+    },
+    {
+      "img": "img/testimonials/12.jpg",
+      "text": "\"Bao bì sản phẩm được thiết kế rất tinh tế và sang trọng. Khách hàng của tôi yêu thích vẻ ngoài của sản phẩm, và điều này đã giúp doanh số tăng lên đáng kể.\"",
+      "name": "Huỳnh Phú"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/001.jpg",
+      "name": "Lionels Phát",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/002.jpg",
+      "name": "Lâm Nguyễn",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/003.jpg",
+      "name": "Cristino Pham",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/004.jpg",
+      "name": "John Nguyen",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "An phu dong 10, Distric12, TPHCM",
+    "phone": "+783921461",
+    "email": "fuszxje1@gmail.com",
+    "facebook": "https://www.facebook.com/trongphu1601",
+    "twitter": "https://x.com/fnnnxje",
+    "youtube": "https://www.youtube.com/@trongphu5634"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Thiết kế đáp ứng",
+      "text": "Đảm bảo đồ họa thích ứng hoàn hảo trên mọi kích thước màn hình, từ điện thoại di động, máy tính bảng đến màn hình lớn."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Hình ảnh chuyển động",
+      "text": "Sử dụng các yếu tố đồ họa chuyển động để tạo ra các video ngắn, hiệu ứng động cho trang web hoặc quảng cáo."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Thiết kế tối giản",
+      "text": "Sử dụng không gian trống, màu sắc đơn giản và ít yếu tố trang trí để tạo ra các thiết kế gọn gàng, tinh tế."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Đồ họa 3D",
+      "text": "Tạo ra các hình ảnh, mô hình hoặc giao diện ba chiều để mô phỏng sản phẩm hoặc không gian thực tế."
+    }
+  ]
+}
